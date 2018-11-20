@@ -1,0 +1,70 @@
+<!-- ***************************************************************************************
+    Author     : Hayron Alvarez  
+    Course     : WEB-1 
+    URL        : ocelot.aul.fiu.edu/~halva023
+    Professor  : Michael Robinson 
+    Program #  : Assignment Purpose/Description 
+                 {This is my page 3 which has three images and text} 
+
+    Due Date   : 09/10/2018 
+    Certification: 
+    I hereby certify that this work is my own and none of it is the work of any other person. 
+
+    ..........{Hayron ALvarez }..........
+
+  **************************************************************************************** -->
+
+<html>
+  <head>
+    <title>HAlvarez Page3</title>
+  </head>
+
+    <body  link="blue" alink="blue" vlink="blue" bgcolor="LightSteelBlue" >
+      <!-- this is the menu at the top -->
+      <center>
+      <a href="Page1.html"> Page1 </a> &nbsp &nbsp 
+      <a href="Page2.html"> Page2 </a> &nbsp &nbsp
+      <a href="Page3.html"> Page3 </a> &nbsp &nbsp
+      <a href="Page4.html"> Page4 </a> &nbsp &nbsp
+      <a href="../index.html"> Home </a> <br><br><br>
+      </center>
+
+      <table border ="6" bordercolor="black">
+        <td>
+          <a href="http://myfwc.com/fishing/saltwater/recreational/stone-crabs/">
+            <img src="../images/StoneCrab.jpg" height ="400" width="456">    
+          </a> 
+        </td>
+      
+       <td>
+         <a href="http://myfwc.com/fishing/saltwater/recreational/hogfish/">
+           <img src="../images/hogFish.jpg" height="350" width="600">
+         </a>
+       </td>
+      </table>
+     
+      <table border="8" bordercolor="grey" cellspacing="20" height="500">
+        <td height= "300" width ="450" bgcolor="lightblue" align="center">
+          <a href="http://myfwc.com/fishing/saltwater/recreational/lobster/" >
+            <img src="../images/lobster.jpg" height="250" width="400">
+          </a>
+        </td> 
+
+        <td height="500">
+          <font face="Monospace" size="3" color="Maroon" align="center">
+            <p>These are my favorite fish/crustaceans to catch!</p>
+          </font>
+
+          <font face="Bookman" size="6" color="MediumSeaGreen">
+            <p><i>Be extra cautious because not all of them can be harvested at the same time</i></P>
+          </font>
+
+          <font face="Impact" size="7" color="OliveDrab">
+            <p>The necessary gear to get this seafood is in page four!</p>
+	  </font>
+
+        </td>  
+      </table> 
+
+    </body>
+</html>
